@@ -1,4 +1,5 @@
-dbpath=./data
-logpath=./data/mongodb.log
+dbpath=/home/mongodb/data
+logpath=/home/mongodb/data/mongodb.log
 port=14910
 auth=true
+

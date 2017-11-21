@@ -1,0 +1,2 @@
+rm /home/mongodb/data/mongod.lock
+mongod -f /home/mongodb/mongodb.cnf

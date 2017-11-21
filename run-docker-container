@@ -1,0 +1,2 @@
+docker run -d -p 14910:14910 -v /home/kxh/github.bobenut/kkbible-mongodb/data:/home/mongodb/data --name=kkbible-mongodb-100 kkbible-mongodb:1.0.0
+

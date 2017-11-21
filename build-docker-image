@@ -1,0 +1,1 @@
+docker build --rm -t kkbible-mongodb:1.0.0 .
